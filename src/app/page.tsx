@@ -399,7 +399,7 @@ active:text-[var(--main-color)]"
                 </div>
                 <div className="progress">
                   <h3>
-                    React Native <span>90%</span>
+                    React Native <span>95%</span>
                   </h3>
                   <div className="bar">
                     <span></span>
