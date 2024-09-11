@@ -210,7 +210,7 @@ active:text-[var(--main-color)]"
           <p className="about-para">
             I'm a passionate Full Stack Mobile and Web Engineer currently honing my skills at
             RnT Devs. On the front-end, I've mastered React.js and Tailwind CSS,
-            creating responsive and dynamic web user interfaces and react natine for mobile applications. As I continue my
+            creating responsive and dynamic web user interfaces and react native for mobile applications. As I continue my
             journey, I dived deeper into back-end technologies to build
             comprehensive <span style={{color: 'green'}}>(MERN)</span>, full-stack applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
