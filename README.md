@@ -30,24 +30,12 @@ This is my personal portfolio website built using Next.js. The website showcases
 ## Setup and Installation
 
 1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/Tayyabkhalid993/PIAIC56.git
-    ```
-
+    
 2. **Navigate to the project directory:**
-    ```bash
-    cd PIAIC56/NextJsProjects/portfolio
-    ```
-
+    
 3. **Install the dependencies:**
-    ```bash
-    npm install
-    ```
-
+   
 4. **Run the development server:**
-    ```bash
-    npm run dev
-    ```
 
 5. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the website locally.
 
