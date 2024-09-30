@@ -43,9 +43,6 @@ This is my personal portfolio website built using Next.js. The website showcases
 
 Once the server is running, you can view your portfolio and make modifications as needed. The project is structured to allow easy updates to content and styling.
 
-### Live Demo
-
-You can view the live version of the website deployed on Vercel at [https://portfolio-seven-ecru-60.vercel.app/](https://portfolio-seven-ecru-60.vercel.app/).
 
 ## Sections
 
